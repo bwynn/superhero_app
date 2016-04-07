@@ -1,0 +1,10 @@
+{
+  "name": "superheroApp",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "latest",
+    "mongoose": "latest",
+    "morgan": "latest"
+  }
+}

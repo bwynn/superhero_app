@@ -1,0 +1,10 @@
+{
+  "name": "superheroApp",
+  "main": "server.js",
+  "dependencies": {
+    "angular-filepicker": "latest",
+    "bootstrap": "latest",
+    "angular": "latest",
+    "angular-route": "latest"
+  }
+}
